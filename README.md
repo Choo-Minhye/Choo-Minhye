@@ -1,4 +1,2 @@
-# minhye
-mungchuni
-babo
-super beaty
+# Minhye Choo
+POSTECH CITE 18
