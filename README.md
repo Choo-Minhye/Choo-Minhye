@@ -1,5 +1,6 @@
 # Minhye Choo
-POSTECH CITE 18  
+POSTECH CITE
+IMS
 
 ## CONTACT
 - minhye5839@postech.ac.kr
