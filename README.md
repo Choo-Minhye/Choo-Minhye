@@ -1,8 +1,8 @@
 # Minhye Choo
-Innovative Medical Solution Laboratory,
-Medical Device Innovation Center,
-Department of Convergence IT Engineering,
-Pohang University of Science and Technology (POSTECH)
+Innovative Medical Solution Laboratory,  
+Medical Device Innovation Center,  
+Department of Convergence IT Engineering,  
+Pohang University of Science and Technology (POSTECH)  
 
 
 ## CONTACT
