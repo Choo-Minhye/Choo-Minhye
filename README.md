@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/45410726/235581118-d51b4830-00bb-4c07-911a-394b9832ca3a.gif" width:"30" height: "30" >
+  <img src="https://user-images.githubusercontent.com/45410726/235582274-c1676ddd-286b-470d-b9ae-aeb362e3df1a.gif" width:"30" height: "30" >
 </div>
 
 # Minhye Choo
