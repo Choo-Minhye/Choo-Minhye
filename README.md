@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/45410726/235581118-d51b4830-00bb-4c07-911a-394b9832ca3a.gif">
+</p>
 # Minhye Choo
 Innovative Medical Solution Laboratory,  
 Medical Device Innovation Center,  
